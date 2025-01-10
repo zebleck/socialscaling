@@ -1,0 +1,18 @@
+name: socialscaling
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch
+  - gymnasium
+  - pettingzoo
+  - numpy
+  - matplotlib
+  - jupyter
+  - tensorboard
+  - pygame
+  - pytest
+  - pip
+  - pip:
+    - stable-baselines3
