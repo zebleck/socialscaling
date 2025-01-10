@@ -1,6 +1,7 @@
 import torch
 import gymnasium
 import pettingzoo
+
 print(f"PyTorch version: {torch.__version__}")
 print(f"Gymnasium version: {gymnasium.__version__}")
 print(f"PettingZoo version: {pettingzoo.__version__}")

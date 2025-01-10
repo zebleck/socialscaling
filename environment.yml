@@ -13,6 +13,7 @@ dependencies:
   - tensorboard
   - pygame
   - pytest
+  - tensorboard
   - pip
   - pip:
     - stable-baselines3
